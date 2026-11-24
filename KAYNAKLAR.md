@@ -13,4 +13,4 @@ Dış sayfalar 14 Kasım 2026 tarihinde içerik çıkarma aracıyla açıldı. A
 
 Kullanıcı kendi ürettiği araştırmanın açık yayımlanmasını onayladı. Yerel araştırmanın tamamındaki olası diğer hak sahipleri bağımsız olarak doğrulanmadı. Bu aday, dış kaynakları bağlantıyla gösteren kısa özgün anlatımlar kullanır; yerel ham oturumlar, hesap kayıtları ve üçüncü taraf eserlerin kopyaları dahil değildir. Yerel teste ilişkin doğrulanamayan sonuç ve üretim vakası iddiası çıkarıldı.
 
-Kaynakların erişilebilir olması yeniden basım izni değildir. Açık yeniden kullanım lisansı henüz belirlenmedi; bkz. [COPYRIGHT.md](COPYRIGHT.md).
+Kaynakların erişilebilir olması yeniden basım izni değildir. Bu depodaki özgün metin CC-BY-4.0 ile lisanslıdır (bkz. [LICENSE](LICENSE) ve [COPYRIGHT.md](COPYRIGHT.md)); kaynak sayfaların içeriği bu lisansın kapsamında değildir.
