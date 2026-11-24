@@ -4,6 +4,8 @@
 
 **Jev technical research** — an independent, source-linked write-up (in Turkish, with this English summary) on how Jev's decision-style API could be used as a *decision signal* and where the evidence stops. Source check date: 14 November 2026; links and model versions must be re-checked before relying on them.
 
+How this differs from [turkish-model-catalog](https://github.com/KemalG-u/turkish-model-catalog): that repository is a catalog of Turkish language-model, speech and NLP resources; this one is a single write-up on using one provider's decision API and where its evidence stops.
+
 ## Summary (EN)
 
 - The provider's docs describe four question types (a binary event probability, a choice with a distribution, an ordinal score, and image localisation). The suggested pattern: the application bounds the input, asks the model for a narrow decision signal, and decides the final action with separate rules. This is a design suggestion derived from the docs, not a verified product feature.
